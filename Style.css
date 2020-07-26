@@ -1,0 +1,157 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-size: 1rem;
+}
+
+p {
+  line-height: 35px;
+}
+
+.font {
+  font-size: 20px;
+  width: 65%;
+  margin: auto auto 0 auto;
+}
+
+.des {
+  color: #25788d;
+}
+
+hr {
+  margin: 50px auto;
+  border-color: #7d8d90;
+  border-width: 5px;
+  border-style: dotted none none none;
+  width: 5%;
+  padding-bottom: 10px;
+}
+
+.cook {
+  height: 200px;
+  width: 200px;
+}
+
+.what {
+  font-family: 'IBM Plex Sans', sans-serif;
+  color: #0fabbc;
+  font-size: 3.125rem;
+}
+
+.piah1 {
+  margin-top: 0;
+  padding-top: 25px;
+  font-size: 3.75rem;
+  font-family: 'Parisienne', cursive;
+  color: #0fabbc;
+}
+
+h2 {
+  font-family: 'IBM Plex Sans', sans-serif;
+  color: #0fabbc;
+}
+
+.toph2 {
+  font-family: 'IBM Plex Sans', sans-serif;
+  color: #0fabbc;
+  padding-bottom: 50px;
+}
+
+.pia-image-padding {
+  margin-top: 30px;
+}
+
+.top-cloud {
+  position: relative;
+  right: 25%;
+  height: 100px;
+}
+
+.code {
+  height: 200px;
+  width: 200px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  top: 40%;
+  right: 15%;
+  height: 100px;
+}
+
+.mountain {
+  height: 350px;
+}
+
+.top {
+  background-color: #dff6fa;
+  padding-top: 40px;
+  position: relative;
+}
+
+.middle {
+  padding: 15px;
+  width: 50%;
+  margin-bottom: auto auto 0 auto;
+  position: relative;
+  left: 25%;
+}
+
+.bottom {
+  position: relative;
+  height: 200px;
+}
+
+.image-laptop {
+  position: absolute;
+  left: 25%;
+  width: 400px;
+  height: 200px;
+}
+
+.writing-laptop {
+  position: absolute;
+  height: 200px;
+  width: 400px;
+  text-align: center;
+  line-height: 35px;
+  right: 20%;
+  font-size: 1.25rem;
+}
+
+.contact {
+  height: 30px;
+  width: 30px;
+}
+
+.bottom-container {
+  background-color: #dff6fa;
+  padding-top: 20px;
+}
+
+.a {
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  color: #dff6fa;
+  font-size: 25px;
+  padding: 10px;
+  background-color: #25788d;
+  border: solid #7d8d90 3px;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+.a:hover {
+  border: solid #7d8d90 3px;
+  background: #dff6fa;
+  color: #25788d;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  text-decoration: none;
+}
